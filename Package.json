@@ -1,0 +1,39 @@
+
+{
+	"name": "liri",
+
+	"version": "1.0.0",
+
+	"description": "A commad line program that can look up songs, movies, twitter",
+
+	"main": "NodeHW.js",
+
+	"depedencies": {
+
+		"request": "^2.81.0",
+
+		"spotify": "^0.3.0",
+
+		"twitter": "^1.7.0"
+	},
+"devDepedecies": {},
+
+"scripts": {
+	
+	"test": "echo \"Error: no test specified\"  && exit 1"
+},
+
+"keywords": [
+
+	"spotify",
+
+	"twitter",
+
+	"omdb"
+],
+
+"author": "Patrick Jett",
+
+"license": "ISC"
+
+}
